@@ -1,0 +1,234 @@
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\CryptoLocker.exe
+Dropper_Strings: 1
+Win32_Ransomware_CryptoLocker: 1
+maldoc_getEIP_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\CryptoWall.exe
+Borland_Delphi_30_: 1
+Borland_Delphi_30_additional: 1
+Borland_Delphi_DLL: 1
+Borland_Delphi_v30: 1
+Borland_Delphi_v40_v50: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+Win32_Ransomware_CryptoWall: 1
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\CoronaVirus.exe
+GenerateTLSClientHelloPacket_Test: 1
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\7ev3n.exe
+Dropper_Strings: 1
+Microsoft_Visual_Cpp_8: 1
+Misc_Suspicious_Strings: 1
+VC8_Microsoft_Corporation: 1
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Locky.AZ.exe
+Microsoft_Visual_Cpp_v60: 1
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\satan.exe
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\UIWIX.exe
+Borland_Delphi_30_: 1
+Borland_Delphi_30_additional: 1
+Borland_Delphi_40: 1
+Borland_Delphi_40_additional: 1
+Borland_Delphi_DLL: 1
+Borland_Delphi_Setup_Module: 1
+Borland_Delphi_v30: 1
+Borland_Delphi_v40_v50: 1
+GenerateTLSClientHelloPacket_Test: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+Sandboxie_Detection: 1
+VirtualBox_Detection: 1
+maldoc_find_kernel32_base_method_1: 1
+maldoc_getEIP_method_1: 1
+maldoc_indirect_function_call_3: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\WinlockerVB6Blacksod.exe
+Dropper_Strings: 1
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+maldoc_getEIP_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Dharma.exe
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+maldoc_find_kernel32_base_method_1: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Birele.exe
+Netopsystems_FEAD_Optimizer_1: 1
+PackerUPX_CompresorGratuito_wwwupxsourceforgenet: 1
+UPX290LZMAMarkusOberhumerLaszloMolnarJohnReiser: 1
+UPXV200V290MarkusOberhumerLaszloMolnarJohnReiser: 1
+UPX_290_LZMA: 1
+UPX_290_LZMA_Markus_Oberhumer_Laszlo_Molnar_John_Reiser: 1
+UPX_290_LZMA_additional: 1
+UPX_wwwupxsourceforgenet: 1
+UPX_wwwupxsourceforgenet_additional: 1
+UPXv20MarkusLaszloReiser: 1
+upx_3: 1
+yodas_Protector_v1033_dllocx_Ashkbiz_Danehkar_h: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\SporaRansomware.exe
+Misc_Suspicious_Strings: 1
+Nullsoft_PiMP_Stub_SFX: 1
+System_Tools: 1
+Win32_Ransomware_Spora: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Fantom.exe
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+Visual_Cpp_2008_Release_Microsoft: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Seftad.exe
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+WMI_strings: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Rensenware.exe
+Microsoft_Visual_C_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET_additional: 1
+Microsoft_Visual_Studio_NET: 1
+Microsoft_Visual_Studio_NET_additional: 1
+NET_executable: 1
+NET_executable_: 1
+NETexecutableMicrosoft: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Xyeta.exe
+PackerUPX_CompresorGratuito_wwwupxsourceforgenet: 1
+UPX20030XMarkusOberhumerLaszloMolnarJohnReiser: 1
+UPXV200V290MarkusOberhumerLaszloMolnarJohnReiser: 1
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay: 1
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay_additional: 1
+UPX_wwwupxsourceforgenet: 1
+UPX_wwwupxsourceforgenet_additional: 1
+UPXv20MarkusLaszloReiser: 1
+yodas_Protector_v1033_dllocx_Ashkbiz_Danehkar_h: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\ViraLock.exe
+Stelth_PE_101_BGCorp: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Petya.A.exe
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\$uckyLocker.exe
+Dropper_Strings: 1
+NETexecutableMicrosoft: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\InfinityCrypt.exe
+Microsoft_Visual_C_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET_additional: 1
+Microsoft_Visual_Studio_NET: 1
+Microsoft_Visual_Studio_NET_additional: 1
+Misc_Suspicious_Strings: 1
+NET_executable: 1
+NET_executable_: 1
+NETexecutableMicrosoft: 1
+VM_Generic_Detection: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\NotPetya.exe
+Microsoft_Visual_Cpp_8: 1
+Misc_Suspicious_Strings: 1
+System_Tools: 1
+VC8_Microsoft_Corporation: 1
+Win32_Ransomware_NotPetya: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\BadRabbit.exe
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+System_Tools: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\PowerPoint.exe
+Borland_Delphi_30_: 1
+Borland_Delphi_30_additional: 1
+Borland_Delphi_DLL: 1
+Borland_Delphi_v30: 1
+Borland_Delphi_v40_v50: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Cerber5.exe
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\GandCrab.exe
+Microsoft_Visual_Cpp_8: 1
+VC8_Microsoft_Corporation: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Satana.exe
+Qemu_Detection: 1
+Safeguard_103_Simonzh: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\WannaCry.exe
+Microsoft_Visual_Cpp: 1
+Microsoft_Visual_Cpp_50: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+Microsoft_Visual_Cpp_v50v60_MFC_additional: 1
+Microsoft_Visual_Cpp_v60: 1
+Win32_Ransomware_WannaCry: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Rokku.exe
+PackerUPX_CompresorGratuito_wwwupxsourceforgenet: 1
+UPX_wwwupxsourceforgenet: 1
+UPX_wwwupxsourceforgenet_additional: 1
+yodas_Protector_v1033_dllocx_Ashkbiz_Danehkar_h: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\PetrWrap
+GenerateTLSClientHelloPacket_Test: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\RedBoot.exe
+UPXV200V290MarkusOberhumerLaszloMolnarJohnReiser: 1
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay: 1
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay_additional: 1
+UPX_wwwupxsourceforgenet: 1
+UPX_wwwupxsourceforgenet_additional: 1
+yodas_Protector_v1033_dllocx_Ashkbiz_Danehkar_h: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\NoMoreRansom.exe
+Borland_Delphi_30_: 1
+Borland_Delphi_30_additional: 1
+Borland_Delphi_DLL: 1
+Borland_Delphi_v30: 1
+Borland_Delphi_v40_v50: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\WannaCrypt0r.exe
+Microsoft_Visual_Cpp: 1
+Microsoft_Visual_Cpp_50: 1
+Microsoft_Visual_Cpp_v50v60_MFC: 1
+Microsoft_Visual_Cpp_v50v60_MFC_additional: 1
+Microsoft_Visual_Cpp_v60: 1
+Misc_Suspicious_Strings: 1
+Win32_Ransomware_WannaCry: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\DeriaLock.exe
+Microsoft_Visual_C_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET_additional: 1
+Microsoft_Visual_Studio_NET: 1
+Microsoft_Visual_Studio_NET_additional: 1
+NET_executable: 1
+NET_executable_: 1
+NETexecutableMicrosoft: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\RedEye.exe
+Microsoft_Visual_C_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET: 1
+Microsoft_Visual_C_v70_Basic_NET_additional: 1
+Microsoft_Visual_Studio_NET: 1
+Microsoft_Visual_Studio_NET_additional: 1
+NET_executable: 1
+NET_executable_: 1
+NETexecutableMicrosoft: 1
+
+Ransomware: D:\help\The-MALWARE-Repo-master\Ransomware\Krotten.exe
+Antivirus: 1
+Dropper_Strings: 1
+System_Tools: 1
+
